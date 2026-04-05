@@ -4,14 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fabiocp/RelatFacil.git"
-  },
+  "repository": "git+https://github.com/fabiocp/RelatFacil.git",
   "keywords": [],
-  "author": "",
+  "author": "Fabio Cesar Pasquali <fabiocesarpasquali@gmail.com>",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
